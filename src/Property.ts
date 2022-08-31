@@ -15,8 +15,7 @@ export class Property extends BaseProperty {
   }
 
   public isEditable(): boolean {
-    return !this.isId()
-            && !this.column.isCreateDate
+    return !this.column.isCreateDate
             && !this.column.isUpdateDate
   }
 
