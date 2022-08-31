@@ -1,5 +1,5 @@
 {
-  "name": "@adminjs/typeorm",
+  "name": "@trangvu9/adminjs-typeorm",
   "version": "4.0.0",
   "description": "TypeORM adapter for AdminJS",
   "keywords": [
